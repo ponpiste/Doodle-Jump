@@ -7,5 +7,5 @@
 # Unignore all dirs
 !*/
 
-*/.DS_Store
+.DS_Store
 *.zip

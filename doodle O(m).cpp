@@ -31,8 +31,6 @@ int cmp(int x,int y){
 }
 
 int main(){
-
-	freopen("/Users/Sacha/Desktop/in.txt", "r", stdin);
 	
 	scanf("%d %d",&n,&m);
 	memset(c,-1,sizeof(c));

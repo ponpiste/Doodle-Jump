@@ -35,8 +35,6 @@ using namespace std;
 int n,m,a[1005],b[1005],dp[1005];
 
 int main(){
-
-	freopen("/Users/Sacha/Desktop/in.txt", "r", stdin);
 	
 	scanf("%d %d",&n,&m);
 

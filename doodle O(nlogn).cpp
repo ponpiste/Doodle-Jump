@@ -9,7 +9,6 @@ int cmp(int x,int y){
 }
 
 int main(){
-	//freopen("/Users/Sacha/Desktop/in.txt", "r", stdin);
 	scanf("%d %d",&n,&m);
 
 	for(int i=1;i<=n;i++){
